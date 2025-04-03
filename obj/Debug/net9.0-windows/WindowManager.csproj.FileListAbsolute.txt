@@ -1,0 +1,17 @@
+C:\Users\Viktor\Desktop\WindowManager\bin\Debug\net9.0-windows\WindowManager.exe
+C:\Users\Viktor\Desktop\WindowManager\bin\Debug\net9.0-windows\WindowManager.deps.json
+C:\Users\Viktor\Desktop\WindowManager\bin\Debug\net9.0-windows\WindowManager.runtimeconfig.json
+C:\Users\Viktor\Desktop\WindowManager\bin\Debug\net9.0-windows\WindowManager.dll
+C:\Users\Viktor\Desktop\WindowManager\bin\Debug\net9.0-windows\WindowManager.pdb
+C:\Users\Viktor\Desktop\WindowManager\obj\Debug\net9.0-windows\WindowManager.Form1.resources
+C:\Users\Viktor\Desktop\WindowManager\obj\Debug\net9.0-windows\WindowManager.csproj.GenerateResource.cache
+C:\Users\Viktor\Desktop\WindowManager\obj\Debug\net9.0-windows\WindowManager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Viktor\Desktop\WindowManager\obj\Debug\net9.0-windows\WindowManager.AssemblyInfoInputs.cache
+C:\Users\Viktor\Desktop\WindowManager\obj\Debug\net9.0-windows\WindowManager.AssemblyInfo.cs
+C:\Users\Viktor\Desktop\WindowManager\obj\Debug\net9.0-windows\WindowManager.csproj.CoreCompileInputs.cache
+C:\Users\Viktor\Desktop\WindowManager\obj\Debug\net9.0-windows\WindowManager.dll
+C:\Users\Viktor\Desktop\WindowManager\obj\Debug\net9.0-windows\refint\WindowManager.dll
+C:\Users\Viktor\Desktop\WindowManager\obj\Debug\net9.0-windows\WindowManager.pdb
+C:\Users\Viktor\Desktop\WindowManager\obj\Debug\net9.0-windows\WindowManager.genruntimeconfig.cache
+C:\Users\Viktor\Desktop\WindowManager\obj\Debug\net9.0-windows\ref\WindowManager.dll
+C:\Users\Viktor\Desktop\WindowManager\obj\Debug\net9.0-windows\WindowManager.Form2.resources
