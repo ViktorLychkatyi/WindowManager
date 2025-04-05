@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WindowManager")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+60614cd5eb1f83563d341272b32aac95bef7352a")]
 [assembly: System.Reflection.AssemblyProductAttribute("WindowManager")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WindowManager")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

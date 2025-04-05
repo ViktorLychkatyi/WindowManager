@@ -1,14 +1,14 @@
-﻿namespace WindowManager
+﻿namespace WindowManager.Forms
 {
-    partial class Form1
+    partial class ChangeNameWindow
     {
         /// <summary>
-        ///  Required designer variable.
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        ///  Clean up any resources being used.
+        /// Clean up any resources being used.
         /// </summary>
         /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
@@ -23,56 +23,65 @@
         #region Windows Form Designer generated code
 
         /// <summary>
-        ///  Required method for Designer support - do not modify
-        ///  the contents of this method with the code editor.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
-            listBox1 = new ListBox();
+            button1 = new Button();
+            textBox1 = new TextBox();
             label1 = new Label();
             SuspendLayout();
             // 
-            // listBox1
+            // button1
             // 
-            listBox1.Anchor = AnchorStyles.None;
-            listBox1.Cursor = Cursors.Hand;
-            listBox1.FormattingEnabled = true;
-            listBox1.Location = new Point(45, 65);
-            listBox1.Name = "listBox1";
-            listBox1.Size = new Size(712, 364);
-            listBox1.TabIndex = 0;
-            listBox1.SelectedIndexChanged += listBox1_SelectedIndexChanged;
+            button1.Location = new Point(340, 257);
+            button1.Name = "button1";
+            button1.Size = new Size(117, 23);
+            button1.TabIndex = 34;
+            button1.Text = "Применить";
+            button1.UseVisualStyleBackColor = true;
+            button1.Click += button1_Click;
+            // 
+            // textBox1
+            // 
+            textBox1.Location = new Point(301, 213);
+            textBox1.Name = "textBox1";
+            textBox1.Size = new Size(194, 23);
+            textBox1.TabIndex = 33;
+            textBox1.TextChanged += textBox1_TextChanged;
             // 
             // label1
             // 
             label1.Anchor = AnchorStyles.None;
             label1.BackColor = SystemColors.Control;
             label1.Font = new Font("Segoe UI Semibold", 12F, FontStyle.Bold, GraphicsUnit.Point, 204);
-            label1.Location = new Point(45, 20);
+            label1.Location = new Point(44, 171);
             label1.Name = "label1";
             label1.Size = new Size(712, 25);
-            label1.TabIndex = 1;
-            label1.Text = "Выберите нужное окно:\r\n\r\n";
+            label1.TabIndex = 32;
+            label1.Text = "Измените названия окна:";
             label1.TextAlign = ContentAlignment.MiddleCenter;
-            label1.Click += label1_Click;
             // 
-            // Form1
+            // ChangeNameWindow
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button1);
+            Controls.Add(textBox1);
             Controls.Add(label1);
-            Controls.Add(listBox1);
-            Name = "Form1";
-            StartPosition = FormStartPosition.CenterScreen;
+            Name = "ChangeNameWindow";
             Text = "Form1";
-            Load += Form1_Load;
+            Load += ChangeNameWindow_Load;
             ResumeLayout(false);
+            PerformLayout();
         }
 
         #endregion
 
-        private ListBox listBox1;
+        private Button button1;
+        private TextBox textBox1;
         private Label label1;
     }
 }

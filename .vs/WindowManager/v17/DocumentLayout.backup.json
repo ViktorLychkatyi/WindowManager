@@ -3,24 +3,40 @@
   "WorkspaceRootPath": "C:\\Users\\Viktor\\Desktop\\WindowManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|C:\\Users\\Viktor\\Desktop\\WindowManager\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|c:\\users\\viktor\\desktop\\windowmanager\\forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|c:\\users\\viktor\\desktop\\windowmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|c:\\users\\viktor\\desktop\\windowmanager\\forms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:forms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|C:\\Users\\Viktor\\Desktop\\WindowManager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|c:\\users\\viktor\\desktop\\windowmanager\\forms\\movewindowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:forms\\movewindowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|c:\\users\\viktor\\desktop\\windowmanager\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|c:\\users\\viktor\\desktop\\windowmanager\\forms\\changenamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:forms\\changenamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|c:\\users\\viktor\\desktop\\windowmanager\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|c:\\users\\viktor\\desktop\\windowmanager\\forms\\movewindowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:forms\\movewindowform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|c:\\users\\viktor\\desktop\\windowmanager\\dllimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:dllimports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|c:\\users\\viktor\\desktop\\windowmanager\\forms\\changenamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:forms\\changenamewindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|c:\\users\\viktor\\desktop\\windowmanager\\forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:forms\\mainwindow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|c:\\users\\viktor\\desktop\\windowmanager\\forms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{867F7A85-80C0-43ED-8490-D68C193B72A9}|WindowManager.csproj|solutionrelative:forms\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -29,71 +45,121 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 320,
-          "SelectedChildIndex": 3,
+          "DockedWidth": 383,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChangeNameWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\ChangeNameWindow.cs",
+              "RelativeDocumentMoniker": "Forms\\ChangeNameWindow.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\ChangeNameWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\ChangeNameWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:50:28.498Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Title": "MoveWindowForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\MoveWindowForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MoveWindowForm.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\MoveWindowForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\MoveWindowForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:09:26.891Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Form2.cs",
-              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Form2.cs*",
-              "RelativeToolTip": "Form2.cs*",
-              "ViewState": "AgIAABgAAAAAAAAAAAAlwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:36:13.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:02:24.629Z",
+              "WhenOpened": "2025-04-04T21:48:55.443Z",
               "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
-              "RelativeToolTip": "Form2.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Title": "MainWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Forms\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\MainWindow.cs*",
+              "RelativeToolTip": "Forms\\MainWindow.cs*",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCUAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:17:19.484Z",
-              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+              "WhenOpened": "2025-04-03T19:09:58.334Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\Menu.cs",
+              "RelativeDocumentMoniker": "Forms\\Menu.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\Menu.cs",
+              "RelativeToolTip": "Forms\\Menu.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAAAE4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T17:35:59.43Z",
+              "WhenOpened": "2025-04-04T17:01:10.079Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MoveWindowForm.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\MoveWindowForm.cs",
+              "RelativeDocumentMoniker": "Forms\\MoveWindowForm.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\MoveWindowForm.cs",
+              "RelativeToolTip": "Forms\\MoveWindowForm.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAArwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:49:15.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChangeNameWindow.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\ChangeNameWindow.cs",
+              "RelativeDocumentMoniker": "Forms\\ChangeNameWindow.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\ChangeNameWindow.cs",
+              "RelativeToolTip": "Forms\\ChangeNameWindow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T16:46:57.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DllImports.cs",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\DllImports.cs",
+              "RelativeDocumentMoniker": "DllImports.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\DllImports.cs",
+              "RelativeToolTip": "DllImports.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T21:46:36.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\MainWindow.cs",
+              "RelativeDocumentMoniker": "Forms\\MainWindow.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "RelativeToolTip": "Forms\\MainWindow.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-05T14:49:58.127Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\Menu.cs",
+              "RelativeDocumentMoniker": "Forms\\Menu.cs",
+              "ToolTip": "C:\\Users\\Viktor\\Desktop\\WindowManager\\Forms\\Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Forms\\Menu.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-04T17:35:22.248Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
             }
           ]
         }
